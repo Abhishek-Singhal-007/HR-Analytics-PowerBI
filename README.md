@@ -59,8 +59,8 @@ Attrition Analysis:
 
 📧 Email: abhishek.singhal0610@gmail.com
 
-🌐 LinkedIn: My LinkedIn Profile
-
+🌐 LinkedIn: [My LinkedIn Profile
+](https://www.linkedin.com/in/-abhishek/)
 
 📄 License
 
